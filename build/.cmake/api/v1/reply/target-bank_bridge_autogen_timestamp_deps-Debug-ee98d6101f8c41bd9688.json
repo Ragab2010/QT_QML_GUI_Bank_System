@@ -1,0 +1,34 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"src/bank/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "bank::@e6675112fc8c060adabf"
+		}
+	],
+	"id" : "bank_bridge_autogen_timestamp_deps::@e6675112fc8c060adabf",
+	"isGeneratorProvided" : true,
+	"name" : "bank_bridge_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "src/bank",
+		"source" : "src/bank"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

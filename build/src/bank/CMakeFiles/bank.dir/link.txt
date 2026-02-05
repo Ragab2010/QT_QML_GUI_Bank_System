@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbank.a CMakeFiles/bank.dir/bank_autogen/mocs_compilation.cpp.o CMakeFiles/bank.dir/account.cpp.o CMakeFiles/bank.dir/bank.cpp.o CMakeFiles/bank.dir/json_persistence.cpp.o
+/usr/bin/ranlib libbank.a

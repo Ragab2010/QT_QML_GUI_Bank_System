@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libbank_bridge.so -o libbank_bridge.so CMakeFiles/bank_bridge.dir/bank_bridge_autogen/mocs_compilation.cpp.o CMakeFiles/bank_bridge.dir/bank_bridge.cpp.o  libbank.a /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.2.4

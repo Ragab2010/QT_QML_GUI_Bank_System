@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcli.a CMakeFiles/cli.dir/cli_autogen/mocs_compilation.cpp.o CMakeFiles/cli.dir/cli.cpp.o
+/usr/bin/ranlib libcli.a
