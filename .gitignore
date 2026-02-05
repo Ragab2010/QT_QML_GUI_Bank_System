@@ -1,0 +1,44 @@
+# Build directories
+/build/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Qt / QML generated files
+*.moc
+*.qrc
+*.rcc
+*_autogen_
+
+# IDEs / editors
+.vscode/
+.idea/
+*.user
+*.swp
+*~
+
+# Binaries and objects
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+*.out
+
+# Logs and runtime files
+*.log
+build/**/accounts.json
+
+# Test/coverage
+coverage/
+*.gcno
+*.gcda
+
+# Misc
+.keep
+.DS_Store

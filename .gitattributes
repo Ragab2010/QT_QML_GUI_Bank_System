@@ -1,0 +1,8 @@
+# Auto-detect text files and normalize line endings
+* text=auto
+
+# Ensure common code files are treated as text
+*.cpp text
+*.h text
+*.qml text
+*.md text
