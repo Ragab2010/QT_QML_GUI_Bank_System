@@ -1,5 +1,7 @@
 # GUI  Bank System 🏦
 
+[![CI](https://github.com/Ragab2010/QT_QML_GUI_Bank_System/actions/workflows/ci.yml/badge.svg)](https://github.com/Ragab2010/QT_QML_GUI_Bank_System/actions)
+
 A simple cross-platform bank management application with a Qt/QML GUI and a C++ backend. The project provides account creation, balance operations (deposit/withdraw), account details, search, JSON persistence, and a CLI for automation and testing.
 
 ---
