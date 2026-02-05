@@ -6,8 +6,10 @@ A simple cross-platform bank management application with a Qt/QML GUI and a C++ 
 
 ---
 ## 🎞️ GIF Demo
-- Demo GUI
+- Demo build and execute GUI
 ![gui_bank.gif](GIF/gui_bank.gif)
+- Demo GUI
+![gui_bank.gif](GIF/gui_bank2.gif)
 
 ## Key features ✅
 
